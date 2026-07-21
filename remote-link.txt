@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://maria-anonymous-plastics-web.trycloudflare.com/vnc.html
+URL       : https://mug-observations-basename-logistics.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-21 09:22:31
+Created   : 2026-07-21 15:59:35
 =======================================================
