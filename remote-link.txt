@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://met-step-wider-arc.trycloudflare.com/vnc.html
+URL       : https://knowledgestorm-specifically-integer-inn.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 20:20:41
+Created   : 2026-08-06 10:17:36
 =======================================================
