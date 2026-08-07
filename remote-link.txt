@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://knowledgestorm-specifically-integer-inn.trycloudflare.com/vnc.html
+URL       : https://forming-slope-killing-drawings.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-06 10:17:36
+Created   : 2026-08-07 01:41:31
 =======================================================
