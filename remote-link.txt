@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://drinking-this-quantities-cst.trycloudflare.com/vnc.html
+URL       : https://postings-wave-advance-equality.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 15:58:15
+Created   : 2026-08-13 20:40:23
 =======================================================
