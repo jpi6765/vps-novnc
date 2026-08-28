@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://skilled-recipient-worldwide-geographical.trycloudflare.com/vnc.html
+URL       : https://arm-genesis-overview-significant.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-27 20:09:36
+Created   : 2026-08-28 08:49:28
 =======================================================
