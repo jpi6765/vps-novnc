@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://entertaining-preferred-walter-personally.trycloudflare.com/vnc.html
+URL       : https://prepared-estate-shanghai-canyon.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 22:18:28
+Created   : 2026-08-30 03:22:06
 =======================================================
