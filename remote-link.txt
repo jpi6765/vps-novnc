@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ent-timer-montgomery-vault.trycloudflare.com/vnc.html
+URL       : https://system-designs-ranger-lighter.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-04 22:06:02
+Created   : 2026-09-05 02:44:32
 =======================================================
