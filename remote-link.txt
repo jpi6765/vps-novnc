@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://savings-wedding-himself-apparel.trycloudflare.com/vnc.html
+URL       : https://douglas-pointing-improvement-ccd.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-18 14:06:32
+Created   : 2026-09-18 18:05:24
 =======================================================
