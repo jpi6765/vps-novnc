@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://still-collective-civilization-eau.trycloudflare.com/vnc.html
+URL       : https://benefits-forbes-milan-prix.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-19 09:11:07
+Created   : 2026-09-19 13:42:20
 =======================================================
