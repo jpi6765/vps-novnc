@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ave-ownership-metallic-conscious.trycloudflare.com/vnc.html
+URL       : https://industrial-popular-assuming-there.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-26 14:04:10
+Created   : 2026-09-26 18:18:00
 =======================================================
