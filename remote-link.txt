@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://imposed-quantity-genes-seasons.trycloudflare.com/vnc.html
+URL       : https://email-flavor-not-champagne.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-02 19:45:55
+Created   : 2026-10-02 23:34:18
 =======================================================
