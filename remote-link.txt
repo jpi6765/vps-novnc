@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://breeding-outlined-tell-coaching.trycloudflare.com/vnc.html
+URL       : https://architecture-reserved-exams-contribution.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-04 22:43:16
+Created   : 2026-10-05 03:50:19
 =======================================================
