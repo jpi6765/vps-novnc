@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://steady-return-proportion-renewable.trycloudflare.com/vnc.html
+URL       : https://cologne-nam-cart-traditions.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 09:37:00
+Created   : 2026-10-15 14:41:14
 =======================================================
