@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://grades-secretariat-penalty-folders.trycloudflare.com/vnc.html
+URL       : https://suggestions-nevada-immediate-evening.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-23 03:12:34
+Created   : 2026-10-23 14:39:28
 =======================================================
