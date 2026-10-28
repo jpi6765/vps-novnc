@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mostly-fever-waves-llc.trycloudflare.com/vnc.html
+URL       : https://cet-video-lions-privileges.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-28 03:48:51
+Created   : 2026-10-28 10:59:06
 =======================================================
