@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://career-welfare-silence-relying.trycloudflare.com/vnc.html
+URL       : https://lane-butler-impressive-hosted.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 23:21:43
+Created   : 2026-11-02 04:08:27
 =======================================================
