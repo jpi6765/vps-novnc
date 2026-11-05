@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://meditation-prairie-allocated-soil.trycloudflare.com/vnc.html
+URL       : https://mandate-supporters-real-fruits.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 12:57:03
+Created   : 2026-11-05 21:20:59
 =======================================================
