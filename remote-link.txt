@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://scripting-optimal-laugh-mobility.trycloudflare.com/vnc.html
+URL       : https://gives-mai-mlb-teach.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-10 05:48:21
+Created   : 2026-11-10 17:28:36
 =======================================================
