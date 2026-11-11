@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gives-mai-mlb-teach.trycloudflare.com/vnc.html
+URL       : https://looked-metals-arrives-described.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-10 17:28:36
+Created   : 2026-11-11 00:25:50
 =======================================================
