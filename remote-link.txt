@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dig-nested-decisions-cradle.trycloudflare.com/vnc.html
+URL       : https://scott-fred-maria-nickname.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-12 05:34:51
+Created   : 2026-11-12 17:55:11
 =======================================================
