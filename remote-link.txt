@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://toe-patent-targets-computing.trycloudflare.com/vnc.html
+URL       : https://dot-logged-enjoyed-passion.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-13 00:53:43
+Created   : 2026-11-13 12:51:42
 =======================================================
