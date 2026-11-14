@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://helena-silicon-factory-awareness.trycloudflare.com/vnc.html
+URL       : https://elephant-lessons-bond-gossip.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-14 11:57:01
+Created   : 2026-11-14 19:42:34
 =======================================================
