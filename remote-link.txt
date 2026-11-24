@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://guidance-language-adaptation-gas.trycloudflare.com/vnc.html
+URL       : https://mary-reggae-que-delayed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-23 21:54:27
+Created   : 2026-11-24 08:10:05
 =======================================================
